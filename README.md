@@ -27,3 +27,8 @@ git push heroku master
 Modifying the app
 
 In order to serve your own app simply replace the iris_kmeans.ipynb with your own Jupyter notebook or Python file declaring a Panel app and then modify the Procfile to start that app instead.
+
+
+Credits:
+- https://panel.holoviz.org/user_guide/Server_Deployment.html
+- https://github.com/holoviz-demos/minimal-heroku-demo/blob/master/README.md
