@@ -18,7 +18,7 @@ heroku create app-name
 ```
 
 5. Modify the `Procfile` according to your app: 
-    - `<model/app.py>` with servable panel app 
+    - `model/app.py` with servable panel app 
     - `app-name.herokuapp.com` which you generated in the above step
 
 6. Set github remote to push to heroku. Use git URL from step 3
