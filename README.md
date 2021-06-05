@@ -1,4 +1,4 @@
-# panel-app-deployment-template
+# panel-app-heroku-template
 Template Repo to deploy python panel app on heroku
 
 Heroku makes deployment of arbitrary apps including Panel apps and dashboards very easy and provides a free tier to get you started. This makes it a great starting point for users not too familiar with web development and deployment.
