@@ -1,7 +1,6 @@
 # Panel App Heroku Template
 ### Template Repo to deploy python panel app on heroku
 
-[![hackmd-github-sync-badge](https://hackmd.io/0CmslwnjTCK8S1hATlUnNQ/badge)](https://hackmd.io/ApPMBo0_QSG5AM0Rs_qThg)
 ---
 
 To get started working with Heroku [signup](https://signup.heroku.com/) for a free account and [download and install the CLI](https://devcenter.heroku.com/articles/getting-started-with-python#set-up). Once you are set up follow the instructions to log into the CLI.
